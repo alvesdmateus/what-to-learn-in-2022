@@ -1,0 +1,7 @@
+yarn init -y
+yarn add express -D
+yarn add -D typescript ts-node-dev
+yarn add @types/typescript -D
+
+yarn add nodemon -D
+yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
